@@ -3,6 +3,7 @@
 
 int main()
 {
+    //Testing the function
     int i;
     int length = 10;
     int test[10] = {5, -1, 9, 8, -3, -4, -1, -3, -3, -3};
