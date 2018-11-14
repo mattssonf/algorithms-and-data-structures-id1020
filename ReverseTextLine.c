@@ -1,7 +1,7 @@
 /*README: the following code implements two versions of a program
   that reverses a line of text from stdin. The iterative function is
   implemented with a fixed size array and the second one is a
-  recursive function (stack)*/
+  recursive function (stack). The purpose is to practise recursive functions*/
 
 #include <stdio.h>
 #include <stdlib.h>
